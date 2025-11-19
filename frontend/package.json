@@ -1,6 +1,7 @@
 {
   "name": "companies-directory-frontend",
   "version": "1.0.0",
+  "homepage": ".",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.14.0",
